@@ -1,2 +1,0 @@
-# penguins
-Created with CodeSandbox
